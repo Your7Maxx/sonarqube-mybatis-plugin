@@ -1,2 +1,4 @@
 # sonarqube-mybatis-plugin
-Simple plugin of sonar for scanning '$' in ibatis's *-Mapper.xml
+
+
+![image](https://github.com/Your7Maxx/sonarqube-mybatis-plugin/blob/main/sonar-mybatis-master/1.png?raw=true)
