@@ -1,0 +1,1 @@
+org.sonarsource.plugins.mybatis.sql.rules.NoUseSelectAllColumnsRule
