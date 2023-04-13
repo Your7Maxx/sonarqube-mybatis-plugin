@@ -1,6 +1,6 @@
 ## SonarQube MyBatis Plugin Downloads Statistics
 
-|  version   | downloads  | release date|
+|  version   | download  | release date|
 |  :----:  | :----  | :---- |
 | ALL  | ![total](https://img.shields.io/github/downloads/donhui/sonar-mybatis/total) |
 | 1.0.6  | ![1.0.6](https://img.shields.io/github/downloads/donhui/sonar-mybatis/1.0.6/total) | 2019.11.08 |
