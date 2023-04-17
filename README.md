@@ -1,7 +1,7 @@
 # sonarqube-mybatis-plugin
 
 ## 插件概要
-  本插件在[sonarqube-xml-plugin](https://github.com/SonarSource/sonar-xml.git)的基础上进行了修改，修改后的插件能够自动地检测出使用ibatis框架的项目中存在sql注入漏洞风险的代码片段，目前只是针对使用“$”的场景进行扫描，但对like、in等特殊的查询并没有作进一步的判断检测，这只是一个自定义插件的简单实践。
+  本插件在[sonarqube-xml-plugin](https://github.com/SonarSource/sonar-xml.git)的基础上进行了修改，修改后的插件能够自动地检测出使用mybatis框架的项目中存在sql注入漏洞风险的代码片段，目前只是针对使用“$”的场景进行扫描，但对like、in等特殊的查询并没有作进一步的判断检测，这只是一个自定义插件的简单实践。
 ## 使用说明
 * 编译打包：`mvn clean install -DskipTests`
 ![image](https://github.com/Your7Maxx/sonarqube-mybatis-plugin/blob/main/sonar-mybatis-master/1.png?raw=true)
