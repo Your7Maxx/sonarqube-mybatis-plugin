@@ -36,5 +36,5 @@ sonar-project.properties配置文件里添加如下内容：<br>
 * https://www.tabnine.com/code/java/methods/org.w3c.dom.Node/getFirstChild
 
 ## 功能添加
-* 完善针对ibatis框架的检测规则，针对`like`、`in`等特殊场景下`${}`的使用进行细粒度的检测
+* 完善针对mybatis框架的检测规则，针对`like`、`in`等特殊场景下`${}`的使用进行细粒度的检测
 * 其他主流框架代码风险发现插件开发
